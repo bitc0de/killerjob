@@ -1,5 +1,6 @@
 # killerjob
- Killer job script for fivem
+
+Killer job script for fivem
 
 ## Installation
 
@@ -9,4 +10,4 @@
 
 3-Copy the "killerjob" folder into the "resources" folder of your server.
 
-4-Add "start killerjob" in your server.cfg file.
+4-Add "start killerjob" in your server.cfg file
